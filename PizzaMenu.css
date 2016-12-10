@@ -1,0 +1,8 @@
+/* Each sub-menu starts out hidden. */
+.initiallyHidden {
+	display:none;
+}
+
+.menu {
+	margin-left:20px;
+}
